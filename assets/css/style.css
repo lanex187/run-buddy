@@ -79,7 +79,6 @@ section {
     background-position: center;
     position: relative;     /*This enables the form container position to be relative to the hero section*/
 }
-/* Heor Style End */
 
 .hero-form {
     color: #024e76;
@@ -114,3 +113,12 @@ section {
 .hero-form label {
     margin: 0px 2px;
 }
+
+.hero-form button{
+    background-color: #024e76;
+    color: #fce138;
+    border: none;
+    font-size: 16px;
+    padding: 10px 20px;
+}
+/* Hero Style End */
